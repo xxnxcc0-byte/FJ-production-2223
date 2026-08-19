@@ -1,0 +1,35 @@
+FJ PRODUCTION — IMAGE GENERATION PROMPT
+========================================
+
+Use this prompt together with the attached FJ Production product photos
+(1000003276.png – 1000003359.png) as reference images in any AI image tool
+(ChatGPT, Gemini, Midjourney, etc.).
+
+ENGLISH PROMPT:
+---------------
+"Create a premium skincare e-commerce hero banner for 'FJ Production'
+(a Lahore-based beauty & skincare brand). Use the attached product photos
+as references: arrange their products and packaging elegantly on glossy
+white marble surfaces with soft green botanical leaves (eucalyptus and
+aloe vera), golden light accents, and gentle water ripples. Style: luxury
+cosmetics advertising photography, soft studio lighting, pastel mint and
+gold color palette, crisp shadows, high-end Instagram aesthetic, 16:9 wide
+composition. Keep the exact products and their packaging looking natural
+and recognizable, just presented in a beautiful, professional product-shoot
+setting. Leave some clean negative space at the top-left for a headline."
+
+VARIATIONS (switch the last sentence as needed):
+- Instagram post:  "...Square 1:1 composition with clean space for brand logo."
+- WhatsApp status:  "...Vertical 9:16 composition for a WhatsApp status ad."
+- Product collage:  "...Arrange all products in a neat grid collage on a soft green background."
+
+USAGE NOTE:
+- Attach up to 10 product photos as reference images along with this prompt.
+- For the best result, first describe in 1 line what each photo shows
+  (e.g., "Ice Cool Face Wash bottle", "serum dropper bottle", etc.).
+
+FJ PRODUCTION DETAILS (for text overlays):
+- Brand: FJ Production
+- Tagline: Premium Beauty & Skincare Products
+- Location: Lahore, Pakistan
+- Ordering: WhatsApp only — 0333 4105708

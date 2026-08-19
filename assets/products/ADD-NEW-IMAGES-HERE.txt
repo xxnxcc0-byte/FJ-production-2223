@@ -1,0 +1,23 @@
+FJ PRODUCTION — ADD NEW OWNER IMAGES HERE
+=========================================
+
+Is folder mein nayi images daal dein (PNG ya JPG) — ye automatically website ke
+"Product gallery" section mein nazar aa jayengi.
+
+Nayi images jo chat mein bheji thi (unke naam pehle se registered hain):
+  1000003277.png, 1000003303.png, 1000003278.png, 1000003276.png,
+  1000003305.png, 1000003302.png, 1000003301.png, 1000003294.png,
+  1000003296.png, 1000003298.png, 1000003299.png, 1000003300.png,
+  1000003309.png, 1000003293.png, 1000003308.png, 1000003322.png,
+  1000003306.png, 1000003307.png, 1000003330.png, 1000003331.png,
+  1000003332.png, 1000003328.png, 1000003329.png, 1000003325.png,
+  1000003326.png, 1000003327.png, 1000003337.png, 1000003338.png,
+  1000003340.png, 1000003341.png, 1000003339.png, 1000003323.png,
+  1000003324.png, 1000003336.png, 1000003350.png, 1000003333.png,
+  1000003334.png, 1000003335.png, 1000003349.png, 1000003346.png,
+  1000003347.png, 1000003348.png, 1000003345.png, 1000003359.png,
+  1000003342.png, 1000003343.png, 1000003344.png
+
+Files is folder mein daalne ke baad website refresh karein — gallery mein
+sab images aa jayengi. Jo files nahi milengi wo khud hide ho jati hain
+(kuch bhi broken nahi dikhta).
